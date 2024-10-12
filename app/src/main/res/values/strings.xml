@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab33</string>
+    <string name="info">Інформація</string>
+    <string name="main_activity1">Головна активність</string>
+    <string name="enter_info">Введіть інформацію</string>
+    <string name="bout_author">Про автора</string>
+    <string name="bout_faculty">Про факультет</string>
+    <string name="bout_city">Про місто</string>
+    <string name="go_back">Назад</string>
+</resources>
